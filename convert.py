@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #usage, python convert.py <file-name>, generate one new file with postfix <file-name>.out
-#author, Mark Zhang(420075746@qq.com)
+#author, Mark Zhang(mark.zhang@nokia-sbell.com, 420075746@qq.com)
 #Any question, it's ok to sent email
 #Attention, if there is special char, that cannot be resolved, then error log print:
 #Attention!!!!! please there is one line that with decode error
